@@ -1,0 +1,310 @@
+.white-font { color: #ffffff; }
+.center { text-align: center; } .right { text-align: right; }
+.font-757575 { color: #757575; } .width-100 img, .width-100 .fl-photo-content { width: 100% !important; }
+.blue-background { background-color: #0066af; }
+.drop-shadow { box-shadow:0px 0px 15px rgba(0,0,0,0.3); }
+.home-intro-font h4 { color: #48484a; }
+.large-font * { font-size: 15px; }
+.light { font-weight: 300; }
+.fl-module-sidebar .search-submit, #right-sidebar.sidebar .search-submit { display: none !important; }
+.fl-module-sidebar, #right-sidebar.sidebar { margin-top: 20px; }
+/* LOCATION BOX ON LOCATIONS AND CONTACT US PAGE */
+.locations-ul ul { margin: 0 0 1em 1em; }
+
+
+.main-navigation .main-nav ul ul { padding: 10px 0px 10px 0px !important; }
+.main-navigation .main-nav ul ul li a,
+.main-navigation .main-nav ul ul li ul li a { padding: 2px 15px 10px 15px !important; }
+
+
+/* HOME PAGE BLOG POSTS FEED */
+.page-id-2 .fl-post-grid-post .fl-post-grid-image { float:left; width: 20%; }
+.page-id-2 .fl-post-grid-post .fl-post-grid-text { margin-left: 22%; }
+.page-id-2 .fl-post-grid-post { border: 1px solid rgba(0,0,0,0) !important;  }
+.page-id-2 .fl-post-grid-post .fl-post-grid-text { padding: 0px 20px 0px 20px; }
+.page-id-2 h2.fl-post-grid-title a { color: #0066af; font-size: 25px; font-weight: 400; }
+.page-id-2 .fl-post-grid-meta { color: #0066af; }
+.page-id-2 .fl-builder-pagination { padding: 0px 0px !important; }
+
+/* GRAVITY FORMS: Schedule an appointment ON HOMEPAGE */
+/*#gform_1 li.gfield { margin-top: 10px; }
+#gform_1 #field_1_9 { margin-top: 0px; }
+#gform_1 #field_1_4, #gform_1 #field_1_5, #gform_1 #field_1_6 { margin-top: 0px; }
+#gform_1 #field_1_1 label.gfield_label, #gform_1 #field_1_2 label.gfield_label,
+#gform_1 #field_1_3 label.gfield_label, #gform_1 #field_1_7 label.gfield_label,
+#gform_1 #field_1_8 label.gfield_label { display: none; }
+#gform_1 #field_1_1, #gform_1 #field_1_2, #gform_1 #field_1_3,
+#gform_1 #field_1_4, #gform_1 #field_1_5, #gform_1 #field_1_6,
+#gform_1 #field_1_7 { padding-left: 0px; padding-right: 0px; }
+#gform_1 #field_1_1, #gform_1 #field_1_2, #gform_1 #field_1_4 { padding-left: 20px; }
+#gform_1 #field_1_2, #gform_1 #field_1_5 { padding-left: 10px; padding-right: 10px; }
+#gform_1 #field_1_2, #gform_1 #field_1_3, #gform_1 #field_1_1, #gform_1 #field_1_6 { padding-right: 20px; }
+#gform_1 #field_1_7 { padding-left: 20px; padding-right: 20px; }
+#gform_1 #field_1_4 label.gfield_label, #gform_1 #field_1_5 label.gfield_label, #gform_1 #field_1_6 label.gfield_label { font-size: 14px; color: #737f8d; font-weight: 400 !important; }*/
+/* GRAVITY FORMS: Request an Appointment on Request an Appointment PAGE */
+/* GRAVITY FORMS: Schedule an appointment ON HOMEPAGE */
+#gform_wrapper_4, #gform_wrapper_2 { border: 1px solid #333333;background-color:#fff }
+#gform_4 li.gfield { margin-top: 10px; }
+#gform_4 #field_4_9 { margin-top: 0px; }
+/*#gform_4 #field_4_4, #gform_4 #field_4_5, #gform_4 #field_4_6 { margin-top: 0px; }*/
+#gform_4 label { display: none; }
+#gform_4 #field_4_1, #gform_4 #field_4_2, #gform_4 #field_4_3,
+/*#gform_4 #field_4_4, #gform_4 #field_4_5, #gform_4 #field_4_6,
+#gform_4 #field_4_7  { padding-left: 0px; padding-right: 0px; }*/
+#gform_4 #field_4_1, #gform_4 #field_4_2, #gform_4 #field_4_3, #gform_4 #field_4_4 { padding-left: 20px; }
+#gform_4 /*#field_4_5*/ { padding-left: 0px; padding-right: 0px; }
+#gform_4 #field_4_1, #gform_4 #field_4_2, #gform_4 #field_4_3, #gform_4 #field_4_6 { padding-right: 20px; }
+#gform_4 #field_4_7, #gform_2 #field_2_1, #gform_2 #field_2_2, #gform_2 #field_2_3, #gform_2 #field_2_4, #gform_2 #field_2_5, #gform_2 #field_2_6  { padding-left: 20px !important; padding-right: 20px !important; }
+#gform_4 #field_4_4 label.gfield_label, #gform_4 /*#field_4_5*/ label.gfield_label, #gform_4 #field_4_6 label.gfield_label { font-size: 14px; color: #737f8d; font-weight: 400 !important; }
+.gform_wrapper .gform_footer input.button:hover { background-color: #009BB7 !important; }
+
+/* TOP BAR */
+.top-bar a { padding-left: 7px; padding-right: 7px; font-weight: 400; font-size: 11px; }
+
+/* BREADCRUMBS ROW*/
+.page-id-2 #breadcrumbs, .page-id-3911 #breadcrumbs, .page-id-4001 #breadcrumbs { display: none !important; }
+#breadcrumbs * { font-size: 12px; color: #666666 !important; }
+#breadcrumbs { max-width: 1160px; margin: 0 auto; position: relative; z-index: 11; }
+.main-nav ul ul { z-index: 1111; }
+#breadcrumbs > span { position: absolute; right: 20px; top: 45px; }
+#breadcrumbs span span a, #breadcrumbs span span span { margin-left: 6px; margin-right: 6px; }
+
+.uppercase * { text-transform: uppercase !important; }
+
+/* FOOTER */
+div:not(.entry-content) .footer-widget-2 .widget ul li, div:not(.entry-content) .footer-widget-3 .widget ul li { width: 50%; float: left; }
+.copyright-bar { text-align: left; }
+.footer-widget-1 { width: 30%; }
+.footer-widget-2, .footer-widget-3 { width: 35%; }
+
+
+/* WONDERPLUGIN CAROUSEL */
+.amazingcarousel-item-container * { color: #ffffff !important; text-align: left !important; }
+#wonderplugincarousel-1 .amazingcarousel-item-container { background-color: rgba(0,0,0,0) !important; border-color: rgba(0,0,0,0) !important;}
+.amazingcarousel-title { margin-bottom: 20px !important; font-weight: 400px !important; }
+.amazingcarousel-item-container { font-weight: 700 !important; }
+
+/*TESTIMONIALS PAGE */
+.grey-border .fl-col-content { border: 1px solid #E0E0E0; border-radius: 3px; }
+.float-left { float: left; }
+.quotation-mark, .float-left, .float-left .fl-module-content , .quotation-mark .fl-module-content {display: inline-block; }
+.page-id-3997 table, .page-id-3997 tbody, .page-id-3997 tr, .page-id-3997 td { border: 0px !important; border-color: rgba(0,0,0,0.0) !important; vertical-align: top !important; }
+.testimonial-author { text-decoration: italic; display: block; margin-top: 15px; }
+.testimonial *  { font-size: 13px; }
+/* ESS GRID */
+.esg-entry-content { height: 110px; }
+.esg-filters  { margin-top: 20px !important; }
+
+/* BLOG PAGE */
+.fl-post-feed-title * { color: #0066af !important; font-size: 25px; line-height: ; }
+h2.fl-post-feed-title { line-height: 25px; }
+.fl-post-feed-image { width: 45% !important; }
+.fl-post-feed-text { margin-left: 48% !important; }
+.fl-module-post-grid .page-numbers li { background: none; list-style: none; margin: 0; padding: 5px 0px 5px 2px; }
+.fl-module-post-grid li a.page-numbers, .fl-module-post-grid li span.page-numbers { border: 1px solid #1080c9; background-color: #ffffff; color: #1080c9; }
+.fl-module-post-grid li a.page-numbers, .fl-module-post-grid li span.page-numbers { width: 37px; padding: 9px 0px; }
+.fl-module-post-grid li a.page-numbers.current, .fl-module-post-grid li span.page-numbers.current,
+.fl-module-post-grid li a.page-numbers:hover, .fl-module-post-grid li span.page-numbers:hover { background-color: #1080c9 !important; color: #ffffff; }
+.fl-module-post-grid li a.page-numbers.next, .fl-module-post-grid li span.page-numbers.next,
+.fl-module-post-grid li a.page-numbers.prev, .fl-module-post-grid li span.page-numbers.prev { width: auto !important; padding: 9px 14px; }
+/* BLOG WIDGTS */
+.widget_search .search-submit { display: inline-block; }
+.widget_categories li.cat-item { font-size: 13px; padding: 12px 0px 12px 25px !important; border-bottom: 1px solid #dcdcdc; }
+.widget_categories li.cat-item { background: url(https://neosmteam.com/wp-content/uploads/2018/08/content-bullet.png) no-repeat left 12px !important; }
+
+/* Dr. Williams PROTOCOLS PAGES - FORMATTING OF PHASE SECTIONS */
+.circle-number { background-color: #0066af; border-radius: 50%; padding: 7px 13px; color: #ffffff; margin-right: 13px; }
+.border-blue > .fl-col-content { border: 1px solid #0066af; }
+
+/* DEPARTMENT ACCORDION */
+.fl-accordion-item:nth-of-type(1) .fl-accordion-button { background-image: url(https://neosmteam.com/wp-content/uploads/2018/08/general.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(1).fl-accordion-item-active .fl-accordion-button { background-image: url(https://neosmteam.com/wp-content/uploads/2018/08/general-1b.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(2) .fl-accordion-button { background-image: url(https://neosmteam.com/wp-content/uploads/2018/08/soccer-ball-1.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(2).fl-accordion-item-active .fl-accordion-button { background-image: url(https://neosmteam.com/wp-content/uploads/2018/08/soccer-ballb-1.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(3) .fl-accordion-button { background-image: url(https://neosmteam.com/wp-content/uploads/2018/08/joint.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(3).fl-accordion-item-active .fl-accordion-button { background-image: url(https://neosmteam.com/wp-content/uploads/2018/08/jointb.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(4) .fl-accordion-button { background-image: url( https://neosmteam.com/wp-content/uploads/2018/08/pain.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(4).fl-accordion-item-active .fl-accordion-button { background-image: url(https://neosmteam.com/wp-content/uploads/2018/08/painb.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(5) .fl-accordion-button { background-image: url(  https://neosmteam.com/wp-content/uploads/2018/08/hand.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(5).fl-accordion-item-active .fl-accordion-button {  background-image: url(https://neosmteam.com/wp-content/uploads/2018/08/handb.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(6) .fl-accordion-button { background-image: url(  https://neosmteam.com/wp-content/uploads/2018/08/foot.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(6).fl-accordion-item-active .fl-accordion-button {  background-image: url(https://neosmteam.com/wp-content/uploads/2018/08/footb.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(7) .fl-accordion-button { background-image: url(https://neosmteam.com/wp-content/uploads/2018/08/Spine-1.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(7).fl-accordion-item-active .fl-accordion-button { background-image: url(https://neosmteam.com/wp-content/uploads/2018/08/Spine-1b.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(8) .fl-accordion-button {   background-image: url(  https://neosmteam.com/wp-content/uploads/2018/08/rheumatology.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(8).fl-accordion-item-active .fl-accordion-button {  background-image: url(https://neosmteam.com/wp-content/uploads/2018/08/rheumatologyb.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(9) .fl-accordion-button {  background-image: url(  https://neosmteam.com/wp-content/uploads/2018/08/diagnostic.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item:nth-of-type(9).fl-accordion-item-active .fl-accordion-button { background-image: url(https://neosmteam.com/wp-content/uploads/2018/08/diagnosticb.png) !important; background-repeat: no-repeat !important; background-size: 20px !important; background-position: 12px 12px !important; }
+.fl-accordion-item-active .fl-accordion-button { background-color: #0066af; color: #ffffff; }
+.fl-accordion-button { border-left: 1px solid #e2e2e2; padding: 0px 0px 0px 42px !important; }
+.fl-accordion-button .fl-accordion-button-label { padding: 10px 10px 10px 10px; border-left: 1px solid #e2e2e2; }
+.fl-accordion-content { background-color: #f2f2f2; padding: 20px !important; font-size: 14px; font-weight: 100; line-height: 1.5; }
+.fl-accordion-content p:nth-of-type(1) { margin-bottom: 15px; }
+.fl-accordion-content * {font-weight: 400;}
+.fl-accordion-button-icon  { padding-right: 15px; }
+
+/* DEPARTMENTS IMG HOVER EFFECT: JQUERY FOUND IN GP HOOKS - FOOTER */
+.img-hover img {
+}
+
+/* GENERAL FORM FORMATTING */
+li.gfield { background: none !important; }
+li.gfield_html { background-color: #0066af !important; color: #ffffff; font-weight: 700; padding: 15px !important; }
+li.gfield_html img { height: 19px; position: absolute; }
+li.gfield_html .title { padding-left: 30px; }
+#gform_wrapper_1 { background-color: #f9f9f9; border: 1px solid #e6e7e8; }
+.gform_body textarea, .gform_body input, .gform_body select { background-color: #ffffff !important; }
+.gform_wrapper .gform_footer { margin: 0px 0px 10px; text-align: center; }
+.gform_footer input { background-color: #1eb3cf; text-transform: uppercase; font-size: 13px !important; font-weight: 300; padding: 5px 15px; }
+
+/* GRAVITY FORMS: Contact Us Form on CONTACT US PAGE */
+#gform_2 #field_2_1 label.gfield_label, #gform_2 #field_2_2 label.gfield_label,
+#gform_2 #field_2_3 label.gfield_label, #gform_2 #field_2_4 label.gfield_label,
+#gform_2 #field_2_5 label.gfield_label { display: none !important; }
+#gform_2 #field_2_1, #gform_2 #field_2_2, #gform_2 #field_2_3, #gform_2 #field_2_4, #gform_2 #field_2_5 { padding-left: 0px; padding-right: 0px; }
+#input_2_4_5_container { width: 100%; margin-right: 0px; padding-right: 0px; }
+
+
+/* IFRAMES */
+iframe.google-map { width: 100% !important; }
+
+/* HEADER */
+#masthead { box-shadow: 0px 2px 6px rgba(0,0,0,0.3); }
+
+/* LIST STYLE */
+.site-content ul > li { background: url(https://neosmteam.com/wp-content/uploads/2018/08/content-bullet.png) no-repeat left 7px; list-style: none; margin: 0; padding: 5px 0px 5px 25px; }
+.site-content ul { margin: 0 0 1.5m 1em !important;  }
+
+/* HOME SLIDE SHOW BANNER */
+.fl-node-5b6e0a0564b81 .fl-slide-content-wrap { width: 70% !important; }
+.home-banner h2.fl-slide-title { font-size: 40px; font-weight: 700; }
+.fl-slide-text * { font-size: 30px; font-weight: 500; }
+.home-banner a.fl-button { color: #ffffff !important; background-color: #17bad6 !important; border: 1px solid #17bad6 !important; font-size: 24px; padding: 20px 30px; border-radius: 0px; }
+.home-banner p { margin-bottom: 100px !important; }
+
+/* BUTTON */
+.blue-button a.fl-button { background-color: #17bad6 !important; font-size: 24px; padding: 20px 30px; border-radius: 0px; border: 1px solid #17bad6 !important; }
+.blue-button a.fl-button * { text-transform: uppercase; color: #ffffff !important; }
+.blue-button-light a.fl-button { font-size: 15px; padding: 10px 26px; }
+.blue-button.grey-button { background-color: #D8D8D8 !important; border: 1px solid #D8D8D8 !important;}
+/* HOME GREY BOXES */
+.home-grey-boxes { margin-top: -50px; }
+.home-grey-boxes .fl-col-content { padding-top: 50px; padding-bottom: 30px; height: 230px; }
+
+/* PAGE: OUR TEAM: FILTER BUTTONS ON TOP OF PAGE */
+.filter-button-row-department button { font-size: 10px; padding: 5px 10px; margin: 5px 15px 5px 0px; background-color: #0066af; text-transform: uppercase; }
+.filter-button-row-location button { background-color: #17bad6; padding: 5px 15px; margin: 5px 18px 5px 0px; font-size: 10px; text-transform: uppercase;  }
+/*PAGE: OUR TEAM: FILTER POST FUNCTIONALITY */
+.filter-post, .location-post { float: left; width: 33.33%; margin-bottom: 20px; height: 225px; }
+.location-post-image img, .filter-post-image img { border: 5px solid #ffffff; width: 114px; margin: 0px 24px 24px 0px; float: left; }
+.filter-post-details, .location-post-details { display: inline-block; }
+.filter-post h3, .location-post h3 { color: #0066af; margin-bottom: 5px; }
+.filter-post h5 { color: #17bad6; }
+.filter-post-details button, .location-post-details button { margin-top: 10px; }
+button.blue-button { background-color: #17bad6 !important; font-size: 24px; padding: 20px 30px; border-radius: 0px; border: 1px solid #17bad6 !important; text-transform: uppercase; color: #ffffff !important; }
+button.blue-button-light { font-size: 15px; padding: 10px 26px; }
+.filter-post-details h5 { margin-bottom: 12px; }
+.filter-post-details p { margin-bottom: 5px; }
+
+/* PAGE: Locations, MEET SPECIALISTS */
+.specialists .filter-post *, .location-post * { color: #ffffff !important; }
+
+
+
+@media only screen and (max-width: 1220px) {
+    .location-post-image img, .filter-post-image img { width: 25%; }
+}
+@media only screen and (max-width: 1150px) {
+    .location-post-image img, .filter-post-image img { width: 20%; }
+    .filter-post-details, .location-post-details { width: 50% !important; }
+    .filter-post-details h3, .location-post-details h3 { font-size: 15px !important; }
+   .locations-ul { width: 100%; }
+    .contact-half { width: 100%; }
+}
+@media only screen and (max-width: 1120px) {
+    button.blue-button-light { font-size: 13px; }
+}
+@media only screen and (max-width: 1080px) {
+    .inside-header {
+    padding: 20px 40px 5px 40px; }
+    .inside-header { text-align: center; }
+    .main-navigation { width: 100% !important; margin-top: 10px; }
+    .main-navigation .inside-navigation { width: 761px; margin: 0 auto; }
+}
+@media only screen and (max-width: 1024px) {
+	.footer-widget-1 { width: 100%; }
+	.footer-widget-2, .footer-widget-3 { width: 50% !important; }
+    .inside-footer-widgets > div:nth-child(2n+1) { clear: none; }
+}
+@media only screen and (max-width: 930px) {
+    .contact-half.fl-col-small, .locations-ul.fl-col-small { width: 100% !important; }
+}
+
+@media only screen and (max-width: 910px) {
+    button.blue-button-light { font-size: 13px; padding: 10px 15px; }
+    .filter-post, .location-post { width: 50%; }
+    .filter-post-details, .location-post-details { width: 75%; }
+}
+@media only screen and (max-width: 830px) {
+    .main-nav ul li a { font-size: 12px; }
+    .main-navigation .inside-navigation { width:690px; }
+}
+@media only screen and (max-width: 768px) {
+    /* MENU */
+    .main-navigation .inside-navigation { width: 100%; }
+    .main-navigation ul ul { background-color: #efefef; }
+    .dropdown-menu-toggle { width: 100%; position: absolute; }
+    .esg-overflowtrick .mainul { margin-left: 0px !important; }
+    .mobile-center * { text-align: center !important; margin-left: auto !important; margin-right: auto !important; }
+    h5 { margin: 0 0 10px 0; }
+	.inside-header { padding: 20px 10px 5px 10px; }
+    .fl-col-small { max-width: 100%; }
+    #breadcrumbs { display: none !important; }
+    .grey-border .fl-col-content { border-color: rgba(0,0,0,0) !important; }
+    .appointment-box-mobile .fl-module-content { margin: 0px 20px 20px 20px !important; }
+	/* HOME BANNER */
+    .fl-node-5b6e0a0564b81 .fl-slide-content-wrap { width: 100% !important; }
+    .home-banner p { margin-bottom: 20px !important; }
+    .fl-slide-text-left .fl-slide-content-wrap, .fl-slide-text-right .fl-slide-content-wrap { position: absolute; top: 0; }
+    .fl-builder-content .fl-module-content-slider .fl-slide .fl-slide-title { font-size: 20px !important; line-height: 26px !important; }
+    .fl-node-5b6e0a0564b81 .fl-slide-1 .fl-slide-content, .fl-node-5b6e0a0564b81 .fl-slide-0 .fl-slide-content
+    { background-color: rgba(0,0,0,0.2); }
+    .home-grey-boxes .fl-col-content { padding-bottom: 0px; height: 200px; }
+    /* FOOTER */
+    .footer-widgets {
+    padding: 20px 20px 20px 20px; }
+    .footer-widget-2, .footer-widget-3 { width: 100% !important; }
+    .footer-widget-1 { margin-bottom: 0px !important; }
+    .footer-widget-2 { margin-bottom: 20px !important; }
+    /* BLOG */
+    .fl-post-feed-post.fl-post-feed-image-beside, .fl-post-feed-post.fl-post-feed-image-beside-content, .fl-post-feed-post.fl-post-feed-image-beside-right, .fl-post-feed-post.fl-post-feed-image-beside-content-right
+    { max-width: 100%; }
+    /* GF FORM */
+    .gform_wrapper { margin: 0px 0px; }
+    /* MOBILE FORMATTING */
+    .mobile-margins-horizontal { margin-left: 20px; margin-right: 20px; }
+    /* UL FORMATTING ON MOBILE */
+    .site-content ul { margin: 0 0 1.5em 1.5em !important; }
+    .site-content ul ul { margin: 0 0 0 1em !important; }
+    .site-content .top-ul-mobile ul, .site-content .middle-ul-mobile ul { margin: 0 0 0 1.5em !important; }
+    .site-content .middle-ul-mobile .fl-module-content,
+    .site-content .bottom-ul-mobile .fl-module-content { margin-top: 0px !important; }
+    .ul-mobile .fl-module-content { margin-left: 20px; }
+    .drop-shadow.mobile-margins-horizontal {box-shadow:0px 0px 15px rgba(0,0,0,0.0); }
+    .amazingcarousel-item { width: 300px !important; }
+}
+@media only screen and (max-width: 640px) {
+    #gform_1 #field_1_1, #gform_1 #field_1_4, #gform_1 #field_1_2, #gform_1 #field_1_5,
+    #gform_1 #field_1_3, #gform_1 #field_1_6, #gform_1 #field_1_8, #gform_4 #field_4_4, #gform_4 #field_4_5, #gform_4 #field_4_6, #gform_4 #field_4_7,
+    #gform_4 #field_4_8 { padding-left: 20px; padding-right: 20px; }
+    .gform_wrapper .gform_footer { padding-left: 20px !important; padding-right: 20px !important; }
+	/* HOME BANNER */
+        .fl-slide-text-left .fl-slide-content-wrap, .fl-slide-text-right .fl-slide-content-wrap { position: relative; }
+	    .fl-node-5b6e0a0564b81 .fl-slide-1 .fl-slide-content, .fl-node-5b6e0a0564b81 .fl-slide-0 .fl-slide-content
+    { background-color: #333333 !important; }
+}
+@media only screen and (max-width: 550px) {
+    /* FILTER AND LOCATION POST */
+    .filter-post, .location-post { width: 100%; height: auto; }
+    .location-post-image img, .filter-post-image img { width: 40% !important; }
+}
