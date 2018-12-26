@@ -1,5 +1,5 @@
 .white *, .white, .white a:hover { color: #ffffff !important; } .pink { color: #f5005c; } .center { text-align: center; }
-
+/*WONDERPLUGIN*/.html5-elem-data-box { display: none !important; }
 .hoverbox { width: 100%;
 height: 100%;
     position: absolute; visibility: hidden;   }
@@ -97,8 +97,8 @@ ul.pink-bults .fa-arrow-circle-o-right { color: #ff3499; }
 .testimonial-box .fl-module-content { padding: 30px; border-radius: 3px; text-align: center; color: #ffffff; position: relative; }
 .testimonial-box p { line-height: 26px; }
 .testimonial-box.pink-box .fl-module-content { background-color: #f5005c; }
-.testimonial-box.pink-box .fl-module-content:after { content: ""; background: url('http://69.16.227.224/~fromthei/wp-content/uploads/2018/12/arrow-pink.png') no-repeat center center; display: block; width: 100%; margin-top: 30px; height: 15px; position: absolute; left: 0; right: 0; }
-.testimonial-box.blue-box .fl-module-content:after {content: ""; background: url('http://69.16.227.224/~fromthei/wp-content/uploads/2018/12/arrow-blue.png') no-repeat center center; display: block; width: 100%; margin-top: 30px; height: 15px; position: absolute; left: 0; right: 0;}
+.testimonial-box.pink-box .fl-module-content:after { content: ""; background: url('https://fromtheinsideoutsoe.com/wp-content/uploads/2018/12/arrow-pink.png') no-repeat center center; display: block; width: 100%; margin-top: 30px; height: 15px; position: absolute; left: 0; right: 0; }
+.testimonial-box.blue-box .fl-module-content:after {content: ""; background: url('https://fromtheinsideoutsoe.com/wp-content/uploads/2018/12/arrow-blue.png') no-repeat center center; display: block; width: 100%; margin-top: 30px; height: 15px; position: absolute; left: 0; right: 0;}
 .testimonial-box.blue-box .fl-module-content { background-color: #0069c9; }
 
 .quiz-form input[type="button"] { background-color: #fe5454 !important; }
@@ -136,6 +136,11 @@ body .gform_wrapper ul li.gfield:nth-of-type(1) { margin-top: 0px !important; }
 }
 
 @media (max-width: 768px) {
+    .footer-widgets { background-image: none !important; background-color: #000000; }
+    .dark-grey-background-remove-image .fl-row-content-wrap { background-image: none !important; background-color: #dbdbdb; }
+    .grey-background-remove-image .fl-row-content-wrap { background-image: none !important; background-color: #F5F6F9; }
+    .blue-background-remove-image .fl-row-content-wrap { background-image: none !important; background-color: #159ED0; }
+    .purple-background-remove-image .fl-row-content-wrap { background-image: none !important; background-color: #8536D1; }
     body { font-size: 14px; }
     h2 { font-size: 26px; }
     h4 { font-size: 22px; }
